@@ -1,0 +1,3 @@
+﻿  server.cpp
+C:\Users\korre\source\repos\ChimeraEngine\Server\serverTCP.h(109,28): error C2065: 'i': undeclared identifier
+C:\Users\korre\source\repos\ChimeraEngine\Server\serverTCP.h(114,4): error C2065: 'i': undeclared identifier
